@@ -1,0 +1,15 @@
+console.log("My First Project");
+var first_name ="Bhuvan";
+var last_name = "Rajesh Kumar";
+var full_name = first_name.concat(last_name);
+console.log(full_name);
+var a =10;
+var b = 5;
+var add = a+b;
+console.log(add);
+var sub = a-b;
+console.log(sub);
+var multiplication = a*b;
+console.log(multiplication);
+var division = a/b;
+console.log(divide);
